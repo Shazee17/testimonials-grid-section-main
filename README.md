@@ -37,7 +37,7 @@ Users should be able to:
 
 ### What I learned
 
-I think I'm a little bit more with CSS Grid now after doing this project but still gotta do more layout designs to get even further expertise.
+I think I'm a little bit more confident with CSS Grid now after doing this project but still gotta do more layout designs to get even further expertise.
 
 ## Author
 - Frontend Mentor - [Shazee17](https://www.frontendmentor.io/profile/Shazee17)
